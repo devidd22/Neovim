@@ -1,9 +1,1 @@
-# Neovim
-# Neovim
-# Neovim
-# Neovim
-# NeovimNew
-# NeovimNew
-# NeovimNew
-# NeovimNew
-# Neovim
+<h1>Neovim Configuration</h1>
